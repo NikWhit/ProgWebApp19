@@ -17,7 +17,7 @@ export const putDb = async (content) => {
 console.error('putDb not implemented');
 //src 19-PWA/23-Ins_IndexedDB-CRUD/database.js #Src
 
-console.log('Post to the database');
+console.log('We need to apply to the database');
 
   // Create a connection to the database database and version we want to use.
   const todosDb = await openDB('jate', 1);
@@ -33,7 +33,7 @@ console.log('Post to the database');
 
   // Get confirmation of the request.
   const result = await request;
-  console.log('Data saved to the database', result);
+  console.log('Data saved to db', result);
 };
 
 // TODO: Add logic for a method that gets all the content from the database

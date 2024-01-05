@@ -1,8 +1,27 @@
 {
   "env": {
-    "browser": true
+    "browser": true,
+    "commonjs": true,
+    "es2021": true,
+    "node": true
   },
+    "extends": "plugin:prettier/recommended",
+    "overrides": [
+      {
+        "env": {
+          "node": true
+        },
+        "files": [".eslintrc.{js,cjs}"],
+        "parserOptions": {
+          "sourceType": "script"
+        }
+      }
+    ],
   "rules": {
+    "prettier/prettier": [
+      "error",
+      { "singleQuote": true, "trailingComma": "none" }
+    ],
     // Override our default settings just for this directory
     "eqeqeq": "warn",
     "strict": "off",

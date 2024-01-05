@@ -19,7 +19,12 @@
     "if-env": "^1.0.4"
   },
   "devDependencies": {
+    "@jimp/core": "^0.22.10",
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "css-loader": "^6.8.1",
+    "nodemon": "^2.0.4",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.89.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }

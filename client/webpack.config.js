@@ -45,7 +45,7 @@ module.exports = () => {
 
 
     ],
-//SRC: PWA / Stu-InjectManifest
+// //SRC: PWA / Stu-InjectManifest
     module: {
       rules: [
         {
