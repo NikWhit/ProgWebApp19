@@ -21,7 +21,7 @@ UofU EdX bootcamp src 19-PWA/23-Ins_IndexedDB-CRUD/database.js #Src
 Finally - Special shout out to Sam Cordova who works as a tutor. Who didn't give me any code, but helped me through the process of uploading the required tech to my new computer after my old one kicked the bucket. I laud him for his calm, patience, and emotional intelligence in helping me through a stressful period. 
 
 ## Screenshot
-
+![image](https://github.com/NikWhit/ProgWebApp19/assets/135679785/e3115dfe-2db8-4869-860d-fe007cd2431d)
 
 ## Notes to me.
 Nick, Thank you for your effort in submitting the homework assignment. You've shown a developing understanding of working with Progressive Web Apps (PWAs), which are vital for providing a seamless user experience in offline modes. PWAs are indeed a significant and exciting aspect of modern web development, enhancing user engagement even without internet connectivity.
